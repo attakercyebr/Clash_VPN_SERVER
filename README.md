@@ -16,17 +16,17 @@
 
 ## # Main repository for downloading tools[windows 11,10,8,7]
 
-- TUN mode on macOS, Linux and Windows. [Doc](https://github.com/Fndroid/clash_for_windows_pkg/releases)
+- TUN mode on and Windows. [Doc](https://github.com/Fndroid/clash_for_windows_pkg/releases)
 
 
 ## # Main repository for downloading tools[Linux]
 
-- TUN mode on macOS, Linux and Windows. [Doc](https://github.com/Fndroid/clash_for_windows_pkg/releases)
+- TUN mode on macOS, Linux. [Doc](https://github.com/Fndroid/clash_for_windows_pkg/releases)
 
 
 ## # Main repository for downloading tools[Android]
 
-- TUN mode on macOS, Linux and Windows. [Doc](https://github.com/Kr328/ClashForAndroid/releases)
+- TUN mode on Android. [Doc](https://github.com/Kr328/ClashForAndroid/releases)
 
 
 ## # See how it works
