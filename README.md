@@ -16,12 +16,12 @@
 
 ## # Main repository for downloading tools[windows 11,10,8,7]
 
-- TUN mode on macOS, Linux and Windows. [Doc](https://github.com/Dreamacro/clash/releases)
+- TUN mode on macOS, Linux and Windows. [Doc](https://github.com/Fndroid/clash_for_windows_pkg/releases)
 
 
 ## # Main repository for downloading tools[Linux]
 
-- TUN mode on macOS, Linux and Windows. [Doc](https://github.com/Dreamacro/clash/releases)
+- TUN mode on macOS, Linux and Windows. [Doc](https://github.com/Fndroid/clash_for_windows_pkg/releases)
 
 
 ## # Main repository for downloading tools[Android]
