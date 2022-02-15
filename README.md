@@ -27,3 +27,35 @@
 ## # Main repository for downloading tools[Android]
 
 - TUN mode on macOS, Linux and Windows. [Doc](https://github.com/Kr328/ClashForAndroid/releases)
+
+
+## # See how it works
+----------------------
+- 🤡  https://t.me/M4nifest0/696
+
+## # Visit the following channels and sites for more training and tools:
+----------------------
+- 🔞 https://m4nifest0.com
+- 🔞 https://m4nifest0.group
+- 🔞 https://m4nifest0.shop
+- 🔞 https://t.me/M4nifest0
+
+----------------------
+
+<h2>
+<p align="center">	
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="https://t.me/M4nifest0">
+		<img src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=Telegram&logoColor=white" />
+	</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="https://twitter.com/_M4nifest0_">
+		<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+	</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="https://m4nifest0.com">
+		<img src="https://img.shields.io/badge/WebSite-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white" />
+	</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="http://afe36vr4gqncdsekksl5ka3xahemj4cpnguj5t7wwp5vxvhff3h5g2qd.onion/">
+		<img src="https://img.shields.io/badge/WebSite-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white" />
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+</p>
