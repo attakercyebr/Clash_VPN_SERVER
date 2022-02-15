@@ -30,17 +30,15 @@
 
 
 ## # See how it works
-----------------------
-- 🤡  https://t.me/M4nifest0/696
+
+- 🤡 Usage_Training. [Click](https://t.me/M4nifest0/701) 
 
 ## # Visit the following channels and sites for more training and tools:
-----------------------
-- 🔞 https://m4nifest0.com
-- 🔞 https://m4nifest0.group
-- 🔞 https://m4nifest0.shop
-- 🔞 https://t.me/M4nifest0
 
-----------------------
+- 🔞 Darknet. [Click](https://m4nifest0.com)
+- 🔞 DarkWeb. [Click](http://afe36vr4gqncdsekksl5ka3xahemj4cpnguj5t7wwp5vxvhff3h5g2qd.onion)
+- 🔞 Telegram_Channel. [Click](https://t.me/M4nifest0)
+
 
 <h2>
 <p align="center">	
